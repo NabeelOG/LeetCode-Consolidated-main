@@ -13,8 +13,11 @@ lines.forEach((line) => {
 
     let isValid = true;
 
+    let diffarray = []
+
     for (let i = 0; i < nums.length - 1; i++) {
         let diff = nums[i + 1] - nums[i];
+        diffarray.push(diff)
         let absDiff = Math.abs(diff);
 
         if (absDiff < 1 || absDiff > 3) {
