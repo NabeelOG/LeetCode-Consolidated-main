@@ -1,0 +1,177 @@
+0:11
+0 minutes 11 seconds
+I shall start the lecture with
+0:13
+0 minutes 13 seconds
+the history of relational model,
+0:15
+0 minutes 15 seconds
+then basic terms or terminologies
+0:17
+0 minutes 17 seconds
+used in relational model and finally
+0:20
+0 minutes 20 seconds
+different keys and it's wrong
+0:23
+0 minutes 23 seconds
+in relational database design.
+0:25
+0 minutes 25 seconds
+Before getting into the
+0:27
+0 minutes 27 seconds
+details of relational model,
+0:28
+0 minutes 28 seconds
+we are going to discuss a brief history
+0:31
+0 minutes 31 seconds
+of relational model relational model or
+0:34
+0 minutes 34 seconds
+record based model was proposed by F God,
+13:05
+13 minutes 5 seconds
+key in the above candidate key.
+13:08
+13 minutes 8 seconds
+We have selected employee
+13:09
+13 minutes 9 seconds
+ID ID as the primary key.
+13:12
+13 minutes 12 seconds
+All other attributes or other
+13:14
+13 minutes 14 seconds
+candidate keys can be selected
+13:17
+13 minutes 17 seconds
+as a as an alternate key.
+13:19
+13 minutes 19 seconds
+So in the above case employee
+13:21
+13 minutes 21 seconds
+ID is the primary key so we can
+13:24
+13 minutes 24 seconds
+select employee name department
+13:26
+13 minutes 26 seconds
+combination as a as an alternate key.
+13:31
+13 minutes 31 seconds
+Here you will learn how to form a
+13:34
+13 minutes 34 seconds
+composite key for a for a relation.
+13:37
+13 minutes 37 seconds
+Sometimes a table may not have a single
+13:41
+13 minutes 41 seconds
+attribute to uniquely identify a temple,
+13:44
+13 minutes 44 seconds
+so it is possible to combine two or more
+13:48
+13 minutes 48 seconds
+attributes to form a database key to
+13:51
+13 minutes 51 seconds
+uniquely identify at Apple in that table.
+13:55
+13 minutes 55 seconds
+Thus, the key formed by combining two or
+13:58
+13 minutes 58 seconds
+more attributes is called a composite key.
+14:03
+14 minutes 3 seconds
+Next, a foreign key.
+14:06
+14 minutes 6 seconds
+The primary key of 1 table may be used
+14:09
+14 minutes 9 seconds
+as a non key attribute of another table.
+14:13
+14 minutes 13 seconds
+Such attribute is referred
+14:15
+14 minutes 15 seconds
+to as a foreign key.
+14:17
+14 minutes 17 seconds
+The main role of foreign key is to specify
+14:20
+14 minutes 20 seconds
+the relationship between two tables.
+14:24
+14 minutes 24 seconds
+Here you can see two tables or two
+14:29
+14 minutes 29 seconds
+relations employee and department
+14:32
+14 minutes 32 seconds
+and the employee relation.
+14:33
+14 minutes 33 seconds
+The department ID is a non key
+14:36
+14 minutes 36 seconds
+attribute or it is a non unique key.
+14:39
+14 minutes 39 seconds
+And this department ID so this
+14:42
+14 minutes 42 seconds
+department ID is the primary
+14:44
+14 minutes 44 seconds
+key of the department relation.
+14:47
+14 minutes 47 seconds
+So the department ID is the foreign is the
+14:50
+14 minutes 50 seconds
+primary key of the department relation,
+14:53
+14 minutes 53 seconds
+and it is the foreign key
+14:56
+14 minutes 56 seconds
+of the employee relation.
+14:58
+14 minutes 58 seconds
+In this lecture we have covered
+15:00
+15 minutes
+the history of relational model.
+15:02
+15 minutes 2 seconds
+The basic terminologies used
+15:04
+15 minutes 4 seconds
+in relational databases,
+15:06
+15 minutes 6 seconds
+relational database design and
+15:08
+15 minutes 8 seconds
+different keys like Super Key,
+15:10
+15 minutes 10 seconds
+candidate key,
+15:11
+15 minutes 11 seconds
+primary key,
+15:12
+15 minutes 12 seconds
+foreign key and composite key and
+15:15
+15 minutes 15 seconds
+their role in relational database design.
